@@ -1,0 +1,76 @@
+﻿
+
+
+#pagecontainer {
+    width: 800px;
+}
+
+#banner {
+    height: 126px;
+    padding-top: 18px;
+    background-color: #DD6B26;
+}
+
+#search {
+    width: 254px;
+    position: absolute;
+    top: 115px;
+    left: 545px;
+    font-family: "Lucida Sans";
+    font-size: small;
+    color: #930626;
+}
+
+#leftsidebar {
+    width: 188px;
+    float: left;
+    padding-right: 10px;
+}
+
+#rightsidebar {
+    width: 238px;
+    float: right;
+    padding-left: 6px;
+}
+
+#maincontent {
+    border-left: 1px solid #DD6B26;
+    margin-left: 203px;
+    margin-right: 260px;
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+#footer {
+    text-align: center;
+    background-color: #DD6B26;
+}
+
+h1 {
+    font-family: "Lucida Calligraphy";
+    font-size: x-large;
+    font-weight: bold;
+    color: #930626;
+    text-align: center;
+    height: 42px;
+    margin-bottom: 0px;
+}
+
+h2 {
+    font-family: "Lucida Sans";
+    font-variant: small-caps;
+    font-size: large;
+    color: #307630;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 0px;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    font-family: "Palatino Linotype";
+    font-size: medium;
+}
+
+
